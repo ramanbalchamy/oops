@@ -112,6 +112,7 @@ public class BankMain {
                                         case 6:
                                             bankEmployee.moneyStatement();
                                             break;
+					default : System.out.println("wrong details");
                                     }
                                 }
                             }
